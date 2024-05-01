@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mgsrv\\pimhack2022-vr-game\\NatureRemo_GenDevCtrl_Proxy\\NatureRemo_GenDevCtrl_Proxy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mgsrv\\pimhack2022-vr-game\\NatureRemo_GenDevCtrl_Proxy\\NatureRemo_GenDevCtrl_Proxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mgsrv\\pimhack2022-vr-game\\NatureRemo_GenDevCtrl_Proxy\\NatureRemo_GenDevCtrl_Proxy.csproj",
+        "projectName": "NatureRemo_GenDevCtrl_Proxy",
+        "projectPath": "C:\\Users\\mgsrv\\pimhack2022-vr-game\\NatureRemo_GenDevCtrl_Proxy\\NatureRemo_GenDevCtrl_Proxy.csproj",
+        "packagesPath": "C:\\Users\\mgsrv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mgsrv\\pimhack2022-vr-game\\NatureRemo_GenDevCtrl_Proxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mgsrv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LazyHttpServerLib": {
+              "target": "Package",
+              "version": "[0.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwc14nzS8/VQRehzixwK8mrYoOzLfH+Gtxgk5c3i4KtG//UcLFzFuGTJhaAa++fod26Ip+qQWT3gjG0hubzLwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgsrv\\pimhack2022-vr-game\\NatureRemo_GenDevCtrl_Proxy\\NatureRemo_GenDevCtrl_Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgsrv\\.nuget\\packages\\lazyhttpserverlib\\0.1.1\\lazyhttpserverlib.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\bin\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.exe
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\bin\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.deps.json
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\bin\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.runtimeconfig.json
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\bin\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.dll
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\bin\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.pdb
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\bin\Debug\net6.0\LazyHttpServerLib.dll
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.csproj.AssemblyReference.cache
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.AssemblyInfoInputs.cache
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.AssemblyInfo.cs
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.csproj.CoreCompileInputs.cache
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.csproj.CopyComplete
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.dll
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\refint\NatureRemo_GenDevCtrl_Proxy.dll
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.pdb
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\NatureRemo_GenDevCtrl_Proxy.genruntimeconfig.cache
+C:\Users\mgsrv\pimhack2022-vr-game\NatureRemo_GenDevCtrl_Proxy\obj\Debug\net6.0\ref\NatureRemo_GenDevCtrl_Proxy.dll
